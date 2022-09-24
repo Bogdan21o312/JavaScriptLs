@@ -12,4 +12,5 @@ const removedElement = myArray.pop()
 console.log(myArray)
 
 console.log(removedElement)
+
 //====================================================================================================
